@@ -2,8 +2,8 @@
 
 ## **Your own personal password manager**
 
-- passOP is build using ReactJS for frontend using library's , lordicons and toastify.
-- passOP uses Node api's for saving data to the databases
+- PassOP is build using ReactJS for frontend using library's , lordicons and toastify.
+- PassOP uses Node api's for saving data to the databases
 - For database i have used mongodb
 - Lordicons is a icons library known for providing animated icons.
 - And toastify is used for proving pop up in the project.
